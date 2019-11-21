@@ -1,1 +1,2 @@
 we're doing good
+this is a new line for the second commit
